@@ -21,7 +21,7 @@ Alternative hypothesis: There is a difference in the average positive sentiment 
 - The average positive sentiment score for the "Google CEO" persona was significantly higher than that for the "Startup founder" persona (p-value << 0.05).
 - This raised the hypothesis that Gemini, being a Google product, might exhibit inherent bias toward Google.
 - To test this, the analysis was extended to compare responses as "Google CEO" versus "Microsoft CEO."
-- The results showed highly overlapping confidence intervals and a non-significant difference (p = 0.79), suggesting no strong inherent bias toward Google in this context.
+- The results showed highly overlapping confidence intervals and a non-significant difference (p = 0.78), suggesting no strong inherent bias toward Google in this context.
 
 ## Conclusion
 
